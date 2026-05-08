@@ -1,4 +1,4 @@
-# 🌐 Internet English Skill
+# 🌐 Internet Business English
 
 A daily English learning assistant built for Chinese internet professionals. Subscribe to your role channel and receive a personalized English digest every day — covering industry jargon, workplace scenarios, and the latest AI buzzwords.
 
@@ -111,7 +111,7 @@ Tell the assistant: *"Send me the digest every morning at 9am"* — it will set 
 ## File Structure
 
 ```
-internet-english/
+internet-business-english/
 ├── SKILL.md                    # Skill definition (read by your AI agent)
 ├── README.md                   # This file
 ├── .gitignore
@@ -162,14 +162,14 @@ internet-english/
 
 ## Installation
 
-Place the `internet-english/` folder inside your agent's skills directory and point it to `SKILL.md`. For example:
+Place the `internet-business-english/` folder inside your agent's skills directory and point it to `SKILL.md`. For example:
 
 ```
 # CatDesk / CatPaw
-~/.catpaw/skills/internet-english/
+~/.catpaw/skills/internet-business-english/
 
 # Or any custom path your agent supports
-/path/to/your/skills/internet-english/
+/path/to/your/skills/internet-business-english/
 ```
 
 ---
